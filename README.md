@@ -1,8 +1,9 @@
 Angular Skeleton
 ====================
 
-## Features
+Loosely based on, but heavily modified, from cleverstack's angular seed
 
+## Features
 These are the main features provided by this front-end development workflow:
 
 * **Development Server** - Live Reload with jsHint, LESS support
