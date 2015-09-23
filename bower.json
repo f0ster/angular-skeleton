@@ -1,0 +1,33 @@
+{
+  "name": "CleverStackAngularSeed",
+  "author": {
+    "name": "CleverTech",
+    "email": "info@clevertech.biz",
+    "web": "http://cleverstack.io"
+  },
+  "version": "0.0.1",
+  "collaborators": [
+    "Richard Gustin <richard@clevertech.biz>",
+    "Daniel Young <daniel@clevertech.biz>",
+    "Daniel Durante <daniel.durante@clevertech.biz>",
+    "Sam Deering <sam@clevertech.biz>"
+  ],
+  "dependencies": {
+    "angular": "1.4.6",
+    "json3": "~3.2.4",
+    "es5-shim": "~2.1.0",
+    "jquery": "~1.10.2",
+    "bootstrap": "~3.3.5",
+    "underscore": "~1.5.2",
+    "requirejs": "~2.1.9",
+    "angular-resource": "1.4.6",
+    "angular-cookies": "1.4.6",
+    "angular-sanitize": "1.4.6",
+    "angular-route": "1.4.6"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.4.6",
+    "angular-scenario": "1.4.6",
+    "less.js": "~1.6.0"
+  }
+}
