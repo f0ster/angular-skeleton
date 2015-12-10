@@ -306,14 +306,14 @@ module.exports = function (grunt) {
         files: [{
           expand: true,
           cwd: '<%= settings.dev.dir %>',
-          src: ['*.html', 'views/*.html', 'views/**/partials/*.html'],
+          src: ['*.html', 'views/**/*.html' ],
           dest: '<%= settings.dist.dir %>'
         }]
       }
     },
 
     // Build config - Allow the use of non-minsafe AngularJS files.
-    ngmin: {
+    ngAnnotate: {
       dist: {
         files: [{
           expand: true,
