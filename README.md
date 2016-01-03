@@ -361,3 +361,4 @@ Currently yes. We are looking at removing it in the future to make the dist dire
 This file is used to specify consistent coding styles between the developers on your project. Read more at http://editorconfig.org
 
 
+# twitchstitch
